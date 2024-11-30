@@ -11,3 +11,5 @@ Santiago Trespalacios Bolivar, 1040570235, Ingeniería de Sistemas
 ## Videos:
 
 Preprocesado: https://youtu.be/d1g1gpphJnk
+
+Entrega Final: https://youtu.be/z1A-4VWeyHo
